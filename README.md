@@ -21,6 +21,11 @@ Data storyteller with a passion for transforming numbers into narratives. With a
 
 ## Featured Projects
 
+### 🍕 Pizza Sales Perfomance Analysis  
+- **Tools**: Tableau  
+- **Key Insights**: Optimized sales strategy by identifying top-performing product categories
+- [View Project](Pizza_Sales_Analyse/)
+
 ### 📊 Social Media vs Mental Health Analysis  
 - **Tools**: Tableau, Python (Data Cleaning)  
 - **Key Insights**: Explored correlation between social media usage and mental health indicators across age groups  
