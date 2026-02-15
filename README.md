@@ -1,4 +1,4 @@
-# Gerrik Boldemann | Data Analytics Consultant
+# Gerrik Bold | Data Analytics Consultant
 
 ## About Me
 
